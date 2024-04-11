@@ -1,15 +1,15 @@
-# GameProgrammingFinal
-Game Programming Final Template
 
-Game Name:  
-Description Short:  
-Description Long:
+Personal Portfolio Piece (project not complete)
 
-Genre:
+Game Name:  Addvon
+Description Short: 2d action sidescroller 
+Description Long: adventure in this small world here the player must survive monsters as he traverses through the environment
 
-Platform:
+Genre: 2D, Action, Adventure
 
-Folder Sturcture
+Platform: PC
+
+Folder Sturcture (NOTE: each build of the game will be available besides the source project)
 
 \src
 
