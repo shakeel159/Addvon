@@ -1,5 +1,7 @@
 Current Build Completed: First Build.
+
 Next Build In Progress: Second Build.
+
 Personal Portfolio Piece (project not complete)
 
 Game Name:  Addvon
